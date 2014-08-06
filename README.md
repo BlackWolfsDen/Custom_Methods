@@ -1,4 +1,4 @@
 Custom_Methods
 ==============
 
-misc. custom lua methods to help were needed lol
+misc. Lua based custom lua methods to help were needed lol
